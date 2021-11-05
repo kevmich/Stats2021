@@ -1,0 +1,61 @@
+﻿textbox6,textbox13
+Visits by Day And Hour,"Start: 01/20/2021 - End: 05/07/2021
+Locations: Tinsley Learning Center"
+
+DayName,Group1,SignInCount
+Sunday,1:00 PM,10
+Sunday,2:00 PM,6
+Sunday,3:00 PM,9
+Monday,8:00 AM,23
+Monday,9:00 AM,21
+Monday,10:00 AM,16
+Monday,11:00 AM,33
+Monday,12:00 PM,29
+Monday,1:00 PM,59
+Monday,2:00 PM,39
+Monday,3:00 PM,169
+Monday,4:00 PM,48
+Monday,5:00 PM,49
+Monday,6:00 PM,4
+Tuesday,5:00 AM,1
+Tuesday,8:00 AM,21
+Tuesday,9:00 AM,35
+Tuesday,10:00 AM,18
+Tuesday,11:00 AM,38
+Tuesday,12:00 PM,29
+Tuesday,1:00 PM,66
+Tuesday,2:00 PM,54
+Tuesday,3:00 PM,78
+Tuesday,4:00 PM,33
+Tuesday,5:00 PM,80
+Tuesday,6:00 PM,2
+Wednesday,8:00 AM,10
+Wednesday,9:00 AM,26
+Wednesday,10:00 AM,29
+Wednesday,11:00 AM,34
+Wednesday,12:00 PM,79
+Wednesday,1:00 PM,50
+Wednesday,2:00 PM,80
+Wednesday,3:00 PM,110
+Wednesday,4:00 PM,28
+Wednesday,5:00 PM,8
+Wednesday,6:00 PM,3
+Wednesday,11:00 PM,2
+Thursday,8:00 AM,8
+Thursday,9:00 AM,13
+Thursday,10:00 AM,7
+Thursday,11:00 AM,10
+Thursday,12:00 PM,25
+Thursday,1:00 PM,59
+Thursday,2:00 PM,64
+Thursday,3:00 PM,39
+Thursday,4:00 PM,11
+Thursday,5:00 PM,33
+Friday,7:00 AM,2
+Friday,8:00 AM,20
+Friday,9:00 AM,13
+Friday,10:00 AM,5
+Friday,11:00 AM,5
+Friday,1:00 PM,2
+Friday,5:00 PM,2
+

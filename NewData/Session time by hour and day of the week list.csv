@@ -1,0 +1,61 @@
+﻿Report,Filters
+Session Time By Hour And Day,"Start: 01/20/2021 - End: 05/07/2021
+Locations: Tinsley Learning Center"
+
+SignInHour,DayName,SessionTime
+1:00 PM,Sunday,15
+1:00 PM,Monday,56.42
+1:00 PM,Tuesday,55.33
+1:00 PM,Wednesday,43.8
+1:00 PM,Thursday,77.65
+1:00 PM,Friday,1.67
+2:00 PM,Sunday,9.2
+2:00 PM,Monday,32.85
+2:00 PM,Tuesday,46.27
+2:00 PM,Wednesday,78.25
+2:00 PM,Thursday,85.1
+3:00 PM,Sunday,13.45
+3:00 PM,Monday,167.9
+3:00 PM,Tuesday,79.17
+3:00 PM,Wednesday,110.55
+3:00 PM,Thursday,32.9
+8:00 AM,Monday,17.92
+8:00 AM,Tuesday,15.8
+8:00 AM,Wednesday,9.83
+8:00 AM,Thursday,12.18
+8:00 AM,Friday,30.2
+9:00 AM,Monday,19.35
+9:00 AM,Tuesday,30.85
+9:00 AM,Wednesday,24.78
+9:00 AM,Thursday,11.62
+9:00 AM,Friday,14.85
+10:00 AM,Monday,13.32
+10:00 AM,Tuesday,12.85
+10:00 AM,Wednesday,29.68
+10:00 AM,Thursday,5.48
+10:00 AM,Friday,5.93
+11:00 AM,Monday,29.82
+11:00 AM,Tuesday,32.33
+11:00 AM,Wednesday,30.58
+11:00 AM,Thursday,8.77
+11:00 AM,Friday,4.97
+12:00 PM,Monday,22.95
+12:00 PM,Tuesday,26.32
+12:00 PM,Wednesday,68.57
+12:00 PM,Thursday,21.33
+4:00 PM,Monday,58.62
+4:00 PM,Tuesday,41.45
+4:00 PM,Wednesday,27.02
+4:00 PM,Thursday,12.52
+5:00 PM,Monday,69.6
+5:00 PM,Tuesday,107.93
+5:00 PM,Wednesday,10.05
+5:00 PM,Thursday,44.38
+5:00 PM,Friday,3
+6:00 PM,Monday,2.37
+6:00 PM,Tuesday,0.67
+6:00 PM,Wednesday,0.92
+5:00 AM,Tuesday,1.5
+11:00 PM,Wednesday,3
+7:00 AM,Friday,3.8
+

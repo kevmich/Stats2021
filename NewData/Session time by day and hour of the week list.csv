@@ -1,0 +1,61 @@
+﻿Report,Filters
+Session Time By Day And Hour,"Start: 01/20/2021 - End: 05/07/2021
+Locations: Tinsley Learning Center"
+
+DayName,Group1,SessionTime
+Sunday,1:00 PM,15
+Sunday,2:00 PM,9.2
+Sunday,3:00 PM,13.45
+Monday,8:00 AM,17.92
+Monday,9:00 AM,19.35
+Monday,10:00 AM,13.32
+Monday,11:00 AM,29.82
+Monday,12:00 PM,22.95
+Monday,1:00 PM,56.42
+Monday,2:00 PM,32.85
+Monday,3:00 PM,167.9
+Monday,4:00 PM,58.62
+Monday,5:00 PM,69.6
+Monday,6:00 PM,2.37
+Tuesday,5:00 AM,1.5
+Tuesday,8:00 AM,15.8
+Tuesday,9:00 AM,30.85
+Tuesday,10:00 AM,12.85
+Tuesday,11:00 AM,32.33
+Tuesday,12:00 PM,26.32
+Tuesday,1:00 PM,55.33
+Tuesday,2:00 PM,46.27
+Tuesday,3:00 PM,79.17
+Tuesday,4:00 PM,41.45
+Tuesday,5:00 PM,107.93
+Tuesday,6:00 PM,0.67
+Wednesday,8:00 AM,9.83
+Wednesday,9:00 AM,24.78
+Wednesday,10:00 AM,29.68
+Wednesday,11:00 AM,30.58
+Wednesday,12:00 PM,68.57
+Wednesday,1:00 PM,43.8
+Wednesday,2:00 PM,78.25
+Wednesday,3:00 PM,110.55
+Wednesday,4:00 PM,27.02
+Wednesday,5:00 PM,10.05
+Wednesday,6:00 PM,0.92
+Wednesday,11:00 PM,3
+Thursday,8:00 AM,12.18
+Thursday,9:00 AM,11.62
+Thursday,10:00 AM,5.48
+Thursday,11:00 AM,8.77
+Thursday,12:00 PM,21.33
+Thursday,1:00 PM,77.65
+Thursday,2:00 PM,85.1
+Thursday,3:00 PM,32.9
+Thursday,4:00 PM,12.52
+Thursday,5:00 PM,44.38
+Friday,7:00 AM,3.8
+Friday,8:00 AM,30.2
+Friday,9:00 AM,14.85
+Friday,10:00 AM,5.93
+Friday,11:00 AM,4.97
+Friday,1:00 PM,1.67
+Friday,5:00 PM,3
+
